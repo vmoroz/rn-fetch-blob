@@ -34,6 +34,6 @@
     "react-native": "0.61"
   },
   "peerDependencies": {
-    "react-native-windows": "^0.60.0-vnext.133"
+    "react-native-windows": "0.61"
   }
 }
