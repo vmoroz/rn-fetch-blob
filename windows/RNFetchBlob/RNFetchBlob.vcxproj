@@ -114,6 +114,7 @@
     <ClInclude Include="ReactPackageProvider.h">
       <DependentUpon>ReactPackageProvider.idl</DependentUpon>
     </ClInclude>
+    <ClInclude Include="RNFetchBlob.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
