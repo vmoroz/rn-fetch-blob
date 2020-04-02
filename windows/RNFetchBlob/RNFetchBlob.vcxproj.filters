@@ -11,12 +11,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="$(GeneratedFilesDir)module.g.cpp" />
-    <ClCompile Include="Class.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="RNFetchBlobConst.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
     <ClInclude Include="RNFetchBlob.h" />
+    <ClInclude Include="RNFetchBlobConst.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
